@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny" id="davaoit-icon"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512"
+	 xml:space="preserve">
+<path id="dit-green" fill="none" stroke="#8AAD3E" stroke-width="10" stroke-miterlimit="10" d="M488.6,180.2
+	c-29.6,7.6-51.8,38.4-51.8,75.3c0,36.8,22.1,67.6,51.6,75.2c11.3-22.8,17.6-48.4,17.6-75.5C506,228.3,499.7,202.9,488.6,180.2z"/>
+<path id="dit-blue" fill="none" stroke="#6D9AB7" stroke-width="10" stroke-miterlimit="10" d="M346.6,255.5
+	c0-61.5,37-113.2,90-136.4C408.3,98.2,373.4,87,335.5,87H222v341h113.5c37.6,0,72.4-13.4,100.6-34.1
+	C383.4,370.7,346.6,316.8,346.6,255.5z"/>
+<path id="dit-yellow" fill="none" stroke="#D8AA35" stroke-width="10" stroke-miterlimit="10" d="M196,241H96.9
+	C83,241,70,250.1,70,264.1v136.4c0,13.9,13,27.6,26.9,27.6H196V241z"/>
+<path id="dit-red" fill="none" stroke="#E55340" stroke-width="10" stroke-miterlimit="10" d="M5,110v80.8
+	C5,204.8,17.3,218,31.3,218H196V87H31.3C17.3,87,5,96.1,5,110z"/>
+</svg>
